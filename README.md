@@ -18,4 +18,6 @@
 
 * [23. Merge k Sorted Lists](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_23.md)
 
+* [26. Remove Duplicates from Sorted Array](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_26.md)
+
 * [105. Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_105.md)
