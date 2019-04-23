@@ -20,4 +20,8 @@
 
 * [26. Remove Duplicates from Sorted Array](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_26.md)
 
+* [28. Implement strStr()](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_28.md)
+
+* [29. Divide Two Integers](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_29.md)
+
 * [105. Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_105.md)
