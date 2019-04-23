@@ -24,4 +24,6 @@
 
 * [29. Divide Two Integers](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_29.md)
 
+* [33. Search in Rotated Sorted Array](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_33.md)
+
 * [105. Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_105.md)
