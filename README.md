@@ -28,4 +28,6 @@
 
 * [34. Find First and Last Position of Element in Sorted Array](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_34.md)
 
+* [36. Valid Sudoku](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_36.md)
+
 * [105. Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_105.md)
