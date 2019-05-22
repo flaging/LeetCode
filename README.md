@@ -30,6 +30,8 @@
 
 * [36. Valid Sudoku](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_36.md)
 
+* [38. Count and Say](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_38.md)
+
 * [41. First Missing Positive](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_41.md)
 
 * [105. Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_105.md)
