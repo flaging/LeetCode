@@ -36,6 +36,6 @@
 
 * [69. Sqrt(x)](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_69.md)
 
-* [70. Climbing Stairs](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_69.md)
+* [70. Climbing Stairs](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_70.md)
   
 * [105. Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_105.md)
