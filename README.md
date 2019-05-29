@@ -34,4 +34,6 @@
 
 * [41. First Missing Positive](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_41.md)
 
+* [69. Sqrt(x)](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_69.md)
+
 * [105. Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_105.md)
