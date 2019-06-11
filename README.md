@@ -2,6 +2,8 @@
 
 * [3.Longest Substring Without Repeating Characters](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_3.md)
 
+* [4. Median of Two Sorted Arrays](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_4.md)
+
 * [8. String to Integer (atoi)](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_8.md)
 
 * [11. Container With Most Water](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_11.md)
@@ -41,3 +43,5 @@
 * [70. Climbing Stairs](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_70.md)
 
 * [105. Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_105.md)
+
+* [118. Pascal's Triangle](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_118.md)
