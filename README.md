@@ -42,6 +42,8 @@
 
 * [70. Climbing Stairs](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_70.md)
 
+* [101. Symmetric Tree](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_101.md)
+
 * [105. Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_105.md)
 
 * [118. Pascal's Triangle](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_118.md)
