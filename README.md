@@ -46,4 +46,6 @@
 
 * [105. Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_105.md)
 
+* [108. Convert Sorted Array to Binary Search Tree](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_108.md)
+
 * [118. Pascal's Triangle](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_118.md)
