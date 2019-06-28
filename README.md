@@ -49,3 +49,5 @@
 * [108. Convert Sorted Array to Binary Search Tree](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_108.md)
 
 * [118. Pascal's Triangle](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_118.md)
+
+* [136. Single Number](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_136.md)
