@@ -53,3 +53,7 @@
 * [136. Single Number](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_136.md)
 
 * [141. Linked List Cycle](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_141.md)
+
+* [169. Majority Element](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_169.md)
+
+* [172. Factorial Trailing Zeroes](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_172.md)
