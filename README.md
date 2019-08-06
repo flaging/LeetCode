@@ -57,3 +57,5 @@
 * [169. Majority Element](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_169.md)
 
 * [172. Factorial Trailing Zeroes](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_172.md)
+
+* [412. Fizz Buzz](https://github.com/liyupeng341/LeetCode/blob/master/Problems/LeetCode_412.md)
